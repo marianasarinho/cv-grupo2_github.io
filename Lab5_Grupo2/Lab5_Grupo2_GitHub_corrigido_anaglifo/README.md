@@ -2,7 +2,7 @@
 
 **Disciplina:** ESZA019 — Visão Computacional  
 **Grupo:** Grupo 2  
-**Integrantes:** preencher nomes completos  
+**Integrantes:** Cesar de Jesus; Mariana Chiara; Vinicius de Marchi  
 
 Este repositório contém o relatório em Jupyter Notebook, os códigos usados no laboratório, os dados de calibração, os parâmetros obtidos e o vídeo anáglifo gerado.
 
