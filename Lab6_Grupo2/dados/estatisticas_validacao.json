@@ -1,0 +1,8 @@
+{
+  "coeficiente_angular": 1.0085000000000002,
+  "intercepto_cm": -0.8800000000000349,
+  "r2": 0.998023034246489,
+  "erro_absoluto_medio_cm": 0.8450000000000042,
+  "erro_percentual_medio": 1.158750000000003,
+  "rmse_cm": 1.027959143156963
+}

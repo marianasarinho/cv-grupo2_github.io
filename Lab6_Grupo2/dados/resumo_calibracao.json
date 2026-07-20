@@ -1,0 +1,18 @@
+{
+  "resolucao": [
+    640,
+    480
+  ],
+  "pares_validos": 25,
+  "cantos_internos": [
+    9,
+    6
+  ],
+  "quadrado_cm": 3.0,
+  "rms_esquerda_px": 0.1733642357356245,
+  "rms_direita_px": 0.1679330098629994,
+  "rms_estereo_px": 1.5284328045253506,
+  "baseline_cm": 5.506623238443962,
+  "focal_retificada_px": 778.2646096484391,
+  "produto_fB_px_cm": 4285.609985148613
+}
