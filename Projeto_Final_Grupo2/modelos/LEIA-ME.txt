@@ -1,0 +1,11 @@
+Coloque nesta pasta o modelo treinado usado nos testes finais:
+
+resnet50_waste.keras
+
+O arquivo class_names.json ja contem a ordem alfabetica esperada das classes.
+O modelo nao esta no GitHub porque possui aproximadamente 210 MB e ultrapassa
+o limite normal de 100 MiB por arquivo. Ele pode ser gerado novamente pelo
+notebook 01_treinamento_modelo.ipynb.
+
+O programa tambem aceita um arquivo resnet50_waste.onnx, mas essa conversao
+permanece opcional e deve ser validada antes de uma apresentacao no Linux.

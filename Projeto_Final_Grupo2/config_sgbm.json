@@ -1,0 +1,10 @@
+{
+  "min_disparity": 0,
+  "num_disparities": 160,
+  "block_size": 5,
+  "uniqueness_ratio": 6,
+  "speckle_window_size": 80,
+  "speckle_range": 1,
+  "disp12_max_diff": 1,
+  "pre_filter_cap": 31
+}

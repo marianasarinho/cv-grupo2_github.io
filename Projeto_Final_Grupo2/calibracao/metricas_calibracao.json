@@ -1,0 +1,20 @@
+{
+  "data_calibracao": "2026-08-02T11:07:50",
+  "pares_validos": 25,
+  "resolucao": [
+    640,
+    480
+  ],
+  "cantos_internos": [
+    6,
+    8
+  ],
+  "quadrado_m": 0.03,
+  "rms_esquerda_px": 1.1492505441853418,
+  "rms_direita_px": 1.128071112112424,
+  "rms_estereo_px": 2.023777006045983,
+  "erro_reprojecao_esquerda_px": 0.9066790843009949,
+  "erro_reprojecao_direita_px": 0.9061101126670837,
+  "erro_epipolar_vertical_px": 1.2712784179051717,
+  "baseline_m": 0.06466647329448642
+}

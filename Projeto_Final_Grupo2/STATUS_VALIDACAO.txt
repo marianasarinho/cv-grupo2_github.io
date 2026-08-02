@@ -1,0 +1,32 @@
+STATUS DO PACOTE - 02/08/2026
+
+VALIDADO NESTE AMBIENTE
+- sintaxe de todos os arquivos Python;
+- argumentos dos seis modos do programa;
+- sintaxe do script configurar_linux.sh;
+- estrutura JSON dos dois notebooks;
+- sintaxe das celulas Python do notebook de treinamento;
+- seis classes no class_names.json;
+- presenca do XML de contingencia e do config_sgbm.json;
+- ausencia das funcoes antigas de combinacao das webcams e YOLO.
+- divisao estratificada 70/15/15 do dataset, com as seis classes presentes;
+- notebook final sem a celula antiga train_dataset.class_names;
+- nome final 01_treinamento_modelo.ipynb;
+- modelo Keras configurado como padrao no executar_projeto.py.
+
+VALIDADO NO COMPUTADOR WINDOWS DO GRUPO
+- Python 3.12.10 e TensorFlow 2.21.0;
+- carregamento de resnet50_waste.keras;
+- captura simultanea das cameras esquerda 1 e direita 0;
+- calibracao com 25 pares e arquivo calibracao_estereo.npz;
+- classificacao das seis classes em tempo real;
+- estimativa de distancia, avisos de faixa e mapa de disparidade;
+- salvamento das imagens e metricas de cada sessao;
+- acuracia de teste de 87,11% em 380 imagens.
+
+AINDA DEPENDE DOS TESTES NO COMPUTADOR DO GRUPO
+- converter e validar resnet50_waste.onnx;
+- repetir o teste no ambiente CV26 da faculdade.
+
+O modelo resnet50_waste.keras nao acompanha o pacote por exceder o limite
+normal de tamanho por arquivo do GitHub.
